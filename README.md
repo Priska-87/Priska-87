@@ -12,7 +12,7 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 🔹 Manejo de bases de datos SQL (MySQL, PostgreSQL)  
 🔹 Desarrollo Backend con Java + Spring + Maven  
 🔹 Presentación clara de hallazgos y recomendaciones orientadas a negocio  
-🔹 Actualmente finalizando certificaciones de ONE, Google y formándome en BI
+🔹 Actualmente finalizando certificaciones de AlumniONE, Google y formándome en BI
 
 ---
 
