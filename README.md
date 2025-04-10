@@ -92,14 +92,14 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ### 🛍️ Análisis de ventas en centros comerciales de la India  
 Exploración de datos reales obtenidos de Kaggle: segmentación por género, edad y métodos de pago. Visualizaciones con Seaborn y Matplotlib, y presentación final con recomendaciones de negocio.
 
-🔗 [Ver repositorio](https://github.com/tuusuario/analisis-centros-comerciales)
+🔗 [Ver repositorio](https://github.com/Priska-87/india-mall-sales-analysis)
 
 ---
 
 ### ✈️ Análisis de vuelos  
 Análisis de un dataset limpio con métricas clave, visualizaciones simples y reporte final. Se complementó con un tablero de Power BI.
 
-🔗 [Ver repositorio](https://github.com/tuusuario/analisis-de-vuelos)
+🔗 [Ver repositorio](https://github.com/Priska-87/Analisis-de-vuelos)
 
 ---
 
