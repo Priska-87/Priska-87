@@ -1,16 +1,114 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Priscila Kwiatkowski
 
-<!--
-**Priska-87/Priska-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnica Superior en Innovación con Tecnologías 4.0, apasionada por el análisis de datos y en formación constante en herramientas de Business Intelligence y gestión de proyectos.  
+Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino profesional en tecnología, combinando pensamiento analítico, creatividad y una fuerte vocación por el aprendizaje continuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🔹 Formación técnica sólida con enfoque en transformación digital  
+🔹 Experiencia en análisis de datos con Python (Pandas, Matplotlib, Seaborn) y Power BI  
+🔹 Manejo de bases de datos SQL (MySQL, PostgreSQL)  
+🔹 Desarrollo Backend con Java + Spring + Maven  
+🔹 Presentación clara de hallazgos y recomendaciones orientadas a negocio  
+🔹 Actualmente finalizando certificaciones de ONE, Google y formándome en BI
+
+---
+
+## 📚 Formación académica
+
+### 🎓 **Técnica Superior en Innovación con Tecnologías 4.0**  
+**Promedio general:** 9,12  
+**Duración:** 3 años
+
+#### Primer Año
+- Programación
+- Inglés I
+- Proyecto Tecnológico Integrador
+- Tecnologías Disruptivas y Transformación Digital
+- Bases de Datos
+- Ética y Deontología Profesional
+- Redes
+- Big Data
+- Análisis Matemático
+
+#### Segundo Año
+- Internet de las Cosas
+- Inglés II
+- Electrónica
+- Estadísticas y Exploración de Datos
+- Cloud Computing
+- Impresión Aditiva
+- Programación II
+- Desarrollo de Sistemas de Inteligencia Artificial (teórico)
+- Analítica de Datos
+- Ciberseguridad
+- Robótica y Drones
+- Práctica Profesionalizante I
+
+#### Tercer Año
+- Ciencia de Datos
+- Economía Digital
+- Gestión del Talento y Planificación
+- Gestión de la Innovación
+- Práctica Profesionalizante II
+
+---
+
+## 🌱 Actualmente aprendiendo
+### 📘 Formación en curso
+
+- 📊 Certificación Google Data Analytics
+- 📁 Certificación Google Project Management
+- 📈 Formación en Business Intelligence – Talento Tech
+- ☁️ Formación AlumniONE G7
+
+### 📌 Formación complementaria finalizada
+
+- 💡 Diseño UX/UI – Numen (Jul – Dic 2024)
+- 🏠 Domótica con ESP-32 Nivel Avanzado – UTN (Ago 2023)
+- ✈️ Manejo de Drones – UTN (Sep 2023)
+- 🖥️ Diplomatura en Desarrollo Web Full Stack – Numen (Jun 2022)
+- 👩‍💻 Professional Front-End Developer – UTN (Feb – Sep 2021)
+- 🧩 Desarrollo Web con Bootstrap – UTN (Sep 2021)
+- 🎨 Desarrollo Web HTML5, CSS3 y JS Avanzado – UTN (Ago 2021)
+- 🌐 Desarrollo Web con JavaScript – UTN (Jun 2021)
+  
+---
+
+## 💻 Herramientas y tecnologías
+
+- **Lenguajes:** Python, Java, SQL, C++, JS
+- **Análisis de Datos:** Pandas, Seaborn, Matplotlib, Power BI, Google Sheets 
+- **Bases de Datos:** MySQL, PostgreSQL  
+- **Backend:** Spring Boot, Maven, JPA  
+- **Otros:** Git, GitHub, APIs REST, Figma
+
+---
+
+## 📁 Proyectos destacados
+
+### 🛍️ Análisis de ventas en centros comerciales de la India  
+Exploración de datos reales obtenidos de Kaggle: segmentación por género, edad y métodos de pago. Visualizaciones con Seaborn y Matplotlib, y presentación final con recomendaciones de negocio.
+
+🔗 [Ver repositorio](https://github.com/tuusuario/analisis-centros-comerciales)
+
+---
+
+### ✈️ Análisis de vuelos  
+Análisis de un dataset limpio con métricas clave, visualizaciones simples y reporte final. Se complementó con un tablero de Power BI.
+
+🔗 [Ver repositorio](https://github.com/tuusuario/analisis-de-vuelos)
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 📧 Email: priscilakwiatkowski44@gmail.com
+- 📂 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+
+---
+
+Gracias por visitar mi perfil 👩‍💻 ¡Estoy abierta a nuevas oportunidades para crecer, aprender y aportar valor desde la tecnología!
