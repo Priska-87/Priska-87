@@ -105,9 +105,9 @@ Análisis de un dataset limpio con métricas clave, visualizaciones simples y re
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](www.linkedin.com/in/priscila-kwiatkowski)
 - 📧 Email: priscilakwiatkowski44@gmail.com
-- 📂 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+- 📂 GitHub: [github.com/tuusuario](https://github.com/Priska-87)
 
 ---
 
