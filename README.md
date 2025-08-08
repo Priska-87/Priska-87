@@ -89,6 +89,15 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 
 ## 📁 Proyectos destacados
 
+### 📊 Dashboard de Análisis de Ventas y Productos
+Proyecto desarrollado con Google Sheets (modelado y limpieza de datos) y Looker Studio (visualización interactiva).
+Incluye métricas clave de desempeño, tendencias de ventas mensuales, segmentación por regiones, métodos de pago y categorías de productos.
+Integra KPIs dinámicos y filtros interactivos que permiten explorar datos en tiempo real, facilitando la toma de decisiones basadas en datos.
+
+🔗 [Ver Dashboard](https://lookerstudio.google.com/reporting/9323186c-5a61-42aa-851f-97601edf41b7)
+
+---
+
 ### 🛍️ Análisis de ventas en centros comerciales de la India  
 Exploración de datos reales obtenidos de Kaggle: segmentación por género, edad y métodos de pago. Visualizaciones con Seaborn y Matplotlib, y presentación final con recomendaciones de negocio.
 
