@@ -60,7 +60,7 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 
 ### 📘 Formación en curso
 - 📁 Certificación Google Project Management
-- 
+  
 ### 📌 Formación complementaria finalizada
 - 📊 Certificación Google Data Analytics (Agosto 2025)
 - 📈 Formación en Business Intelligence – Talento Tech (Julio 2025)
@@ -79,8 +79,9 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 
 ## 💻 Herramientas y tecnologías
 
-- **Lenguajes:** Python, Java, SQL, C++, JS
-- **Análisis de Datos:** Pandas, Seaborn, Matplotlib, Power BI, Google Sheets 
+- **Lenguajes:** Python, R, Java, SQL, C++, JS
+- **Análisis de Datos:** Pandas, Seaborn, Matplotlib, Google Sheets
+- **Visualizaciones de datos e informes:** Looker Studio, R Markdown, Tableau, Power BI
 - **Bases de Datos:** MySQL, PostgreSQL  
 - **Backend:** Spring Boot, Maven, JPA  
 - **Otros:** Git, GitHub, APIs REST, Figma
