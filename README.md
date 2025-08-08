@@ -82,7 +82,7 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 - **Lenguajes:** Python, R, Java, SQL, C++, JS
 - **Análisis de Datos:** Pandas, Seaborn, Matplotlib, Google Sheets
 - **Visualizaciones de datos e informes:** Looker Studio, R Markdown, Tableau, Power BI
-- **Bases de Datos:** MySQL, PostgreSQL  
+- **Bases de Datos:** MySQL, PostgreSQL, Bigquery  
 - **Backend:** Spring Boot, Maven, JPA  
 - **Otros:** Git, GitHub, APIs REST, Figma
 
