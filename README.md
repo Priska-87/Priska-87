@@ -20,7 +20,7 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ### 🎓 **Técnica Superior en Innovación con Tecnologías 4.0**  
 **Promedio general:** 9,12  
 **Duración:** 3 años
-**Fecha de finalización** Diciembre 2024
+**Fecha de finalización:** Diciembre 2024
 
 #### Primer Año
 - Programación
