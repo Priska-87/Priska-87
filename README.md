@@ -58,10 +58,11 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ## 🌱 Actualmente aprendiendo
 
 ### 📘 Formación en curso
-- 📁 Certificación Google Project Management
+Ciberseguridad de Google
   
 ### 📌 Formación complementaria finalizada
 - 📊 Certificación Google Data Analytics (Agosto 2025)
+- 📁 Certificación Google Project Management (Agosto 2025)
 - 📈 Formación en Business Intelligence – Talento Tech (Julio 2025)
 - ☁️ Oracle Cloud Infrastructure OCI Foundations Associate (Julio 2025)
 - 🖥️ Formación AlumniONE G7 (Julio 2024 - Enero 2025)
