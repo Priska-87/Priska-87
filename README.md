@@ -62,6 +62,7 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 
 ### 📘 Formación en curso
 Certificación Profesional en Ciberseguridad de Google
+
 Certificación Profesional en Marketing Digital & E-commerce de Google
   
 ### 📌 Formación complementaria finalizada
