@@ -61,7 +61,8 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ## 🌱 Actualmente aprendiendo
 
 ### 📘 Formación en curso
-Ciberseguridad de Google
+Certificación Profesional en Ciberseguridad de Google
+Certificación Profesional en Marketing Digital & E-commerce de Google
   
 ### 📌 Formación complementaria finalizada
 - 📊 Certificación Google Data Analytics (Agosto 2025)
