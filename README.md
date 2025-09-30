@@ -83,11 +83,6 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ---
 
 ## 💻 Herramientas y tecnologías
----
-
-¡Perfecto, Priscila! 😄 Aquí te armé **toda tu sección de badges en estilo limpio**, sin cuadros, alineados en línea por categorías y con links clickables. Lista para copiar y pegar en tu README:
-
----
 
 ### 💻 Lenguajes de Programación
 
