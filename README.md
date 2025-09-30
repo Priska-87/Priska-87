@@ -85,30 +85,61 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ## 💻 Herramientas y tecnologías
 ---
 
-| Lenguajes                                                                                               |                                                                                                             |                                                                                                   |                                                                                                |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)                    | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sql\&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)      | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) |                                                                                                   |                                                                                                |
-| Herramientas                                                                                            |                                                                                                           |                                                                                                                 |                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge\&logo=google\&logoColor=white) |
+¡Perfecto, Priscila! 😄 Aquí te armé **toda tu sección de badges en estilo limpio**, sin cuadros, alineados en línea por categorías y con links clickables. Lista para copiar y pegar en tu README:
 
-| Herramientas                                                                                                          |                                                                                                            |                                                                                                            |                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![Looker Studio](https://img.shields.io/badge/Looker_Studio-00A1F1?style=for-the-badge\&logo=google\&logoColor=white) | ![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge\&logo=r\&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black) |
+---
 
-| Bases de Datos                                                                                       |                                                                                                                     |                                                                                                             |   |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | - |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=google\&logoColor=white) |   |
+### 💻 Lenguajes de Programación
 
-| Backend                                                                                                           |                                                                                                            |                                                                                                 |   |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | - |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white) | ![JPA](https://img.shields.io/badge/JPA-FF6F61?style=for-the-badge\&logo=java\&logoColor=white) |   |
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)](https://www.r-project.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)](https://www.oracle.com/java/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sql\&logoColor=white)](https://www.w3schools.com/sql/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-| Herramientas                                                                                   |                                                                                                         |                                                                                                                |                                                                                                      |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) | ![APIs REST](https://img.shields.io/badge/APIs_REST-61DAFB?style=for-the-badge\&logo=postman\&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white) |
+---
 
+### 📊 Análisis de Datos
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)](https://matplotlib.org/)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge\&logo=google\&logoColor=white)](https://www.google.com/sheets/about/)
+
+---
+
+### 📈 Visualización de Datos e Informes
+
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-00A1F1?style=for-the-badge\&logo=google\&logoColor=white)](https://lookerstudio.google.com/)
+[![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge\&logo=r\&logoColor=white)](https://rmarkdown.rstudio.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black)](https://powerbi.microsoft.com/)
+
+---
+
+### 🗄️ Bases de Datos
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
+[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=google\&logoColor=white)](https://cloud.google.com/bigquery)
+
+---
+
+### ⚙️ Backend
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)](https://maven.apache.org/)
+[![JPA](https://img.shields.io/badge/JPA-FF6F61?style=for-the-badge\&logo=java\&logoColor=white)](https://jakarta.ee/specifications/persistence/)
+
+---
+
+### 🔧 Otros
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![APIs REST](https://img.shields.io/badge/APIs_REST-61DAFB?style=for-the-badge\&logo=postman\&logoColor=white)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/)
 
 ---
 
