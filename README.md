@@ -18,7 +18,7 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 ## 📚 Formación académica
 
 ### 🎓 **Técnica Superior en Innovación con Tecnologías 4.0**  
-**Promedio general:** 9,12  
+**Promedio general:** 9,11  
 
 **Duración:** 3 años
 
