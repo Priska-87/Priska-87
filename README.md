@@ -140,13 +140,32 @@ Después de 4 años de estudio intensivo, estoy lista para comenzar mi camino pr
 
 ## 📁 Proyectos destacados
 
+### 🧠 InsightStream
+Automatización de Datos para E-Commerce – **Pipeline End to End**
+📊 Descripción General
+InsightStream automatiza la carga, transformación y visualización de datos de ventas desde un archivo CSV hasta dashboards dinámicos en Power BI, utilizando Python, MySQL, OneDrive y Power BI.
+El flujo completo garantiza credenciales seguras y un proceso automatizado, ideal para escenarios de e-commerce o análisis de ventas.
+
+🔗 [Ver Dashboard](https://lookerstudio.google.com/reporting/9323186c-5a61-42aa-851f-97601edf41b7)
+
+---
+
 ### 📊 Dashboard de Análisis de Ventas y Productos
 Proyecto desarrollado con Google Sheets (modelado y limpieza de datos) y Looker Studio (visualización interactiva).
 Incluye métricas clave de desempeño, tendencias de ventas mensuales, segmentación por regiones, métodos de pago y categorías de productos.
 Integra KPIs dinámicos y filtros interactivos que permiten explorar datos en tiempo real, facilitando la toma de decisiones basadas en datos.
 
-🔗 [Ver Dashboard](https://lookerstudio.google.com/reporting/9323186c-5a61-42aa-851f-97601edf41b7)
+🔗 [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU5NGVmOTAtNjMyMi00Y2FiLTk5ZGYtYzVlOGE5YzE1YjcyIiwidCI6IjIzNzc0NzJlLTgwMDQtNDY0OC04NDU2LWJkOTY4N2FmYTE1MCIsImMiOjR9)
+🔗 [Ver repositorio](https://github.com/Priska-87/InsightStream)
 
+---
+
+### 💼 Proyecto: Normalización y Conciliación de Transacciones Bancarias
+Python Pandas Jupyter
+📌 Descripción
+Este proyecto consiste en la normalización y conciliación de transacciones bancarias utilizando Python 🐍 y Pandas 🗃️ en Jupyter Notebook 📓. El objetivo es transformar datos crudos en un formato limpio, estructurado y listo para análisis, asegurando la correcta conciliación con registros de referencia.
+[Ver repositorio](https://github.com/Priska-87/Proyecto-de-Normalizacion-y-Conciliacion-de-Transacciones-Bancarias)
+ 
 ---
 
 ### 🛍️ Análisis de ventas en centros comerciales de la India  
