@@ -176,7 +176,7 @@ Exploración de datos reales obtenidos de Kaggle: segmentación por género, eda
 ### ✈️ Análisis de vuelos  
 Análisis de un dataset limpio con métricas clave, visualizaciones simples y reporte final. Se complementó con un tablero de Power BI.
 
-🔗 [Ver repositorio](https://github.com/Priska-87/Analisis-de-vuelos)
+🔗 [Ver repositorio](https://github.com/Priska-87/Analisis-de-vuelos) | 🔗 [Ver Dashboard](eyJrIjoiMTA0YThlMzItM2ZkMy00Yjg3LWFiNGEtZTc0M2Q4N2FhNWRlIiwidCI6IjIzNzc0NzJlLTgwMDQtNDY0OC04NDU2LWJkOTY4N2FmYTE1MCIsImMiOjR9)
 
 ---
 
